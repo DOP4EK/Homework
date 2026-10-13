@@ -1,4 +1,3 @@
-
 #include <iostream>
 
 using Operation = void (*)(int&);

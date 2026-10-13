@@ -1,4 +1,3 @@
-
 #include <iostream>
 
 bool IsEqual(const char* first, const char* second) {
